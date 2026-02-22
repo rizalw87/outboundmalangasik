@@ -1,0 +1,36 @@
+# Robots.txt for Vendoora Outbound
+# https://vendooraoutbound.vercel.app/
+
+User-agent: *
+Allow: /
+Disallow: /assets/favicon.ico
+
+# Sitemap
+Sitemap: https://vendooraoutbound.vercel.app/sitemap.xml
+
+# Crawl-delay (optional, for polite bots)
+Crawl-delay: 1
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+
+# Bing specific
+User-agent: Bingbot
+Allow: /
+
+# AI Crawlers (AEO/GEO optimization)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /

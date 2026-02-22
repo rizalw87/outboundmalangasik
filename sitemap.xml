@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://vendooraoutbound.vercel.app/</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://vendooraoutbound.vercel.app/assets/hero.webp</image:loc>
+            <image:title>Vendoora Outbound - Paket Outbound dan Wisata Paralayang Malang</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://vendooraoutbound.vercel.app/assets/og-image.webp</image:loc>
+            <image:title>Vendoora Outbound Malang</image:title>
+        </image:image>
+    </url>
+
+    <!-- About Page -->
+    <url>
+        <loc>https://vendooraoutbound.vercel.app/about.html</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://vendooraoutbound.vercel.app/assets/team.webp</image:loc>
+            <image:title>Tim Profesional Vendoora Outbound</image:title>
+        </image:image>
+    </url>
+
+    <!-- Blog Page -->
+    <url>
+        <loc>https://vendooraoutbound.vercel.app/blog.html</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Blog Posts -->
+    <url>
+        <loc>https://vendooraoutbound.vercel.app/blog-posts/persiapan-sebelum-outbound.html</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://vendooraoutbound.vercel.app/blog-posts/sensasi-paralayang-batu-malang.html</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://vendooraoutbound.vercel.app/blog-posts/team-building-produktivitas.html</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://vendooraoutbound.vercel.app/blog-posts/spot-wisata-batu-gathering.html</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://vendooraoutbound.vercel.app/blog-posts/panduan-rafting-pemula.html</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://vendooraoutbound.vercel.app/blog-posts/manfaat-outbound-kesehatan-mental.html</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+</urlset>
